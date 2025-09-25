@@ -2,7 +2,7 @@ package conversion
 
 import "fmt"
 
-func conversion() {
+func Conversion() {
 	var dolares float64
 	var moneda string
 	tasaEUR := 0.95     // Euro
